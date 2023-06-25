@@ -38,6 +38,12 @@ body {
     text-decoration: none;
 }
 
+a:hover {
+    background-color: #303c3f;
+    transform: scale(1.1);
+    transition: all 0.5s;
+  } 
+
 .apresentacao {
     padding: 5% 15%;
     display: flex;
